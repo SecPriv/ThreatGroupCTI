@@ -6,7 +6,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Requirements](#requirements)
-- [Data Sources](#data-sources)
+- [Repository Structure](#repository-structure)
 - [Examples](#examples)
 - [Usage](#usage)
 - [License](#license)
