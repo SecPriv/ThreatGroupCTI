@@ -1,6 +1,4 @@
-# Project Title
-
-Building Threat Group profiles from CTI knowledge bases. 
+# Building Threat Group profiles from CTI knowledge bases. 
 
 ## Table of Contents
 
