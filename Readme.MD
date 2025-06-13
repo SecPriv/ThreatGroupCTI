@@ -25,9 +25,7 @@ group. However, the distinctiveness and completeness of such
 behavioral profiles remain largely unexplored. In this work,
 we systematically analyze threat group profiles built from
 two open cyber threat intelligence (CTI) knowledge bases:
-MITRE ATT&CK and Malpedia. We first investigate what
-fraction of threat groups have group-specific behaviors, i.e.,
-behaviors used exclusively by a single group. 
+MITRE ATT&CK and Malpedia. 
 
 ## Features
 
@@ -38,15 +36,10 @@ behaviors used exclusively by a single group.
 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/sahaaakanksha7/CTITTP.git
-   cd CTITTP
+  git clone x/x/ThreatGroupCTI.git
+  cd ThreatGroupCTI
 ```
 
-2. Create and activate a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
 
 3. Install dependencies:
 ```bash
@@ -55,7 +48,7 @@ pip install -r requirements.txt
 
 ## Requirements
 
-Python 3.10.10
+Python 3.10.x
 
 ## Repository Structure
 
